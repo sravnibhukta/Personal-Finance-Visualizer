@@ -1,0 +1,12 @@
+[build]
+  publish = "dist/public"
+  command = "npm install && vite build"
+
+[build.environment]
+  NODE_VERSION = "18"
+  NODE_ENV = "production"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
