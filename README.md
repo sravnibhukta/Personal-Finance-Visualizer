@@ -2,13 +2,17 @@
 
 A comprehensive full-stack web application for tracking personal finances with transaction management, categorization, budgeting, and beautiful data visualizations.
 
-![image](https://github.com/user-attachments/assets/a4ca9482-a849-4d98-9b77-d22ac2e9a1bc)
+![image](https://github.com/user-attachments/assets/dbb514cf-6a0a-44cb-a3f6-66c31c20481d)
 
-![image](https://github.com/user-attachments/assets/751e79e8-de36-414a-9536-fdb0dfddc324)
+![image](https://github.com/user-attachments/assets/42f524b0-08f2-44bc-a260-8a8a0c763d7d)
 
-![image](https://github.com/user-attachments/assets/70d52839-acdb-45f3-87d7-4a5991f5f6a0)
+![image](https://github.com/user-attachments/assets/0c107bb0-a8dc-453e-81c7-8a5d9c277c9a)
 
-![image](https://github.com/user-attachments/assets/8107e08d-84e7-49d4-8ba1-68ad128aabba)
+![image](https://github.com/user-attachments/assets/27365eb6-5cdf-4234-93b3-8bde4a323b1b)
+
+
+
+
 
 ## ✨ Features
 
